@@ -172,6 +172,6 @@ The model seems to perform really well on predicting new stock prices.
 
 ## Conclusion
 
-Time series forecasting is a very intriguing field to work with, as well as it s a must for every company to understand seasonality, cyclicality, trend and randomness in the sales and other attributes.
+Time series forecasting is a very intriguing field to work with, as well as it's a must for every company to understand seasonality, cyclicality, trend and randomness in the sales and other attributes.
 
 And talking about stock market time-series analysis and predictions, LSTM performes better than most other algorithms.
