@@ -18,7 +18,7 @@ To analyze the trend of Microsoft Stock market and predicting the future stock o
 
 ### Outcome: 
 
-Predicted one year of future stock of the company with a root-mean squared error of  2.37.
+Predicted one year of future stock of the company with a root-mean squared error of  3.50.
 
 ## Resources:
 
