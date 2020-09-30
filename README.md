@@ -54,7 +54,7 @@ Predicted one year of future stock of the company with a root-mean squared error
 
 ### Exploratory Data Analysis:
 
-Associated [Notebook]()
+Associated [Notebook](https://github.com/PritamAich/Stock-Market-Prediction/blob/master/Microsoft%20Stock%20market%20time%20series%20analysis.ipynb)
 
 a) Firstly, the data is gathered.
 
@@ -80,12 +80,12 @@ Closing price of stock mostly ranges between 20 and 40 dollars.
 
 The moving average for the closing price of the stock is calculated with a window period of 1 month.
 
-There is also some interactive visualizations on the stock data using Plotly. It can be found in [this notebook]().
+There is also some interactive visualizations on the stock data using Plotly. It can be found in [this notebook](https://github.com/PritamAich/Stock-Market-Prediction/blob/master/Plotly%20Visualization%20on%20MSFT%20Stock%20market%20anlysis.ipynb).
 
 
 ### 2. Data Preprocessing:
 
-Associated [Notebook]()
+Associated [Notebook](https://github.com/PritamAich/Stock-Market-Prediction/blob/master/Data_Preprocessing.ipynb)
 
 Data processing is done in various steps.
 
@@ -105,7 +105,7 @@ The profit or loss calculation is usually determined by the closing price of a s
 
 The evaluation metric used is root-mean squared error.
 
-Associated [Notebook]()
+Associated [Notebook](https://github.com/PritamAich/Stock-Market-Prediction/blob/master/Model.ipynb)
 
 - At first, two base models were used for predictions on our dataset.
 
@@ -162,7 +162,7 @@ Associated [Notebook]()
 
 With our model, we predicted into the unknown future, the next two months of stock data.
 
-Associated [Notebook]()
+Associated [Notebook](https://github.com/PritamAich/Stock-Market-Prediction/blob/master/Future%20forecasting.ipynb)
 
 
 <img src = 'images/future_forecast.png'>
