@@ -42,7 +42,7 @@ Predicted one year of future stock of the company with a root-mean squared error
     - Handling categorical values
     - Moving average feature generation
 
-- **Model Building and Testing**
+- **Model Building and Evaluation**
 
     - Trying out four different models.
     - Validating model performance on Validation data
@@ -158,7 +158,7 @@ Associated [Notebook](https://github.com/PritamAich/Stock-Market-Prediction/blob
     Root-mean squared error score = 3.507
 
 
-### 5. Testing
+### 4. Testing
 
 With our model, we predicted into the unknown future, the next two months of stock data.
 
